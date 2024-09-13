@@ -4,13 +4,65 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Prompt Gallery</title>
-  <link rel="stylesheet" href="style.css">
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="icons/favicon.ico">
+  <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+  
+  <!-- Apple Touch Icon -->
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  
+  <!-- Android Chrome -->
+  <link rel="icon" type="image/png" sizes="192x192" href="icons/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" sizes="512x512" href="icons/android-chrome-512x512.png">
+  
+  <!-- Microsoft Tile -->
+  <meta name="msapplication-TileImage" content="icons/mstile-150x150.png">
+  <meta name="msapplication-config" content="icons/browserconfig.xml">
+  
+  <style>
+    .language-links a {
+      text-decoration: none;
+      margin-left: 10px;
+      color: #6c757d;
+    }
+    .language-links a.active {
+      font-weight: bold;
+      color: #007bff;
+    }
+  </style>
 </head>
 <body>
-  <h1>Prompt Gallery</h1>
-  <input type="text" id="search" placeholder="Search prompts..." oninput="filterPrompts()">
-  <div id="prompts-container"></div>
+  <div class="container mt-5">
+    <div class="row justify-content-end mb-3">
+      <div class="col-auto language-links">
+        <a href="#" data-lang="en" id="en-link">English</a>
+        <a href="#" data-lang="ru" id="ru-link">Русский</a>
+      </div>
+    </div>
+    <h1 class="text-center mb-4" id="main-title">Prompt Gallery</h1>
+    <div class="row justify-content-center mb-4">
+      <div class="col-md-6">
+        <input type="text" id="search" class="form-control" placeholder="Search prompts..." oninput="filterPrompts()">
+      </div>
+    </div>
+    <div id="prompts-container" class="row"></div>
+  </div>
 
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
   <script src="app.js"></script>
+
+  <footer class="mt-5 py-3 text-center bg-light">
+    <div class="container">
+      <p class="mb-0">
+        <span id="footer-text-ru">Промпты собрал <a href="https://t.me/+IuboMqMBpfQwMTFi" target="_blank">Николай Волосянков</a></span>
+        <span id="footer-text-en">Prompts collected by <a href="https://t.me/+bx0O7zlsqNYzMTli" target="_blank">Nikolai Volosyankov</a></span>
+      </p>
+    </div>
+  </footer>
 </body>
 </html>

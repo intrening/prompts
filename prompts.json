@@ -1,42 +1,192 @@
 [
   {
-    "category": "Writing",
-    "text": "Write a short story about a space traveler who encounters an alien civilization."
+    "category": {
+      "en": "SMM",
+      "ru": "SMM"
+    },
+    "name": {
+      "en": "Weekly SMM Content Plan",
+      "ru": "Недельный SMM контент-план"
+    },
+    "description": {
+      "en": "Developing a comprehensive social media content strategy",
+      "ru": "Разработка комплексной стратегии контента для социальных сетей"
+    },
+    "text": {
+      "en": "Act as an experienced SMM consultant and develop a weekly content plan based on the following information:\n\n1. Brief description of the business/project:\n[Your answer]\n\n2. Target audience (age, gender, interests):\n[Your answer]\n\n3. Main products/services:\n[Your answer]\n\n4. Main competitors (2-3 examples):\n[Your answer]\n\n5. Unique selling proposition:\n[Your answer]\n\n6. Current promotion channels:\n[Your answer]\n\n7. SMM strategy goals:\n[Your answer]\n\nUsing this information, do the following:\n1. Summarize the data received in 2-3 sentences.\n2. Create a structure for a weekly content plan, including:\n* Frequency of posts for each social network\n* 5-7 main content categories with justification\n* Examples of topics for each category (2-3 per category)\n* Ratio of content types (text, photo, video, stories)\n3. Suggest 3-4 specific post ideas for the week.\n4. Develop 2-3 ideas to increase audience engagement.\n5. Recommend 2-3 tools for analyzing content effectiveness.\nIn conclusion, indicate the possibility of adjusting the plan and request feedback.",
+      "ru": "Выступи в роли опытного SMM-консультанта и разработай недельный контент-план, основываясь на следующей информации:\n\n1. Краткое описание бизнеса/проекта:\n[Ваш ответ]\n\n2. Целевая аудитория (возраст, пол, интересы):\n[Ваш ответ]\n\n3. Основные продукты/услуги:\n[Ваш ответ]\n\n4. Главные конкуренты (2-3 примера):\n[Ваш ответ]\n\n5. Уникальное торговое предложение:\n[Ваш ответ]\n\n6. Текущие каналы продвижения:\n[Ваш ответ]\n\n7. Цели SMM-стратегии:\n[Ваш ответ]\n\nИспользуя эту информацию, выполни следующее:\n1. Обобщи полученные данные в 2-3 предложениях.\n2. Создай структуру недельного контент-плана, включая:\n* Частоту постов для каждой социальной сети\n* 5-7 основных рубрик контента с обоснованием\n* Примеры тем для каждой рубрики (2-3 на рубрику)\n* Соотношение типов контента (текст, фото, видео, stories)\n3. Предложи 3-4 конкретные идеи постов на неделю.\n4. Разработай 2-3 идеи для увеличения вовлеченности аудитории.\n5. Порекомендуй 2-3 инструмента для анализа эффективности контента.\nВ заключение, укажи на возможность корректировки плана и запроси обратную связь."
+    },
+    "dateAdded": "2024-09-13T00:00:00Z"
   },
   {
-    "category": "Art",
-    "text": "Create a concept for a futuristic cityscape using vivid colors."
+    "category": {
+      "en": "SMM",
+      "ru": "SMM"
+    },
+    "name": {
+      "en": "Sales Stories for Consultation Warm-up",
+      "ru": "Продающие сторис для прогрева к консультации"
+    },
+    "description": {
+      "en": "Creating a sequence of stories to warm up the audience for a consultation sale",
+      "ru": "Создание цепочки сторис для прогрева аудитории к продаже консультации"
+    },
+    "text": {
+      "en": "Act as an expert in creating sales stories and develop a sequence of messages to warm up the audience for a consultation sale. Use the following information:\n\n1. Niche and consultation topic:\n[Your answer]\n\n2. Target audience:\n[Your answer]\n\n3. Main problem solved by the consultation:\n[Your answer]\n\n4. Unique selling proposition of the consultation:\n[Your answer]\n\n5. Duration and format of the consultation:\n[Your answer]\n\n6. Cost of the consultation:\n[Your answer]\n\nBased on this information, do the following:\n1. Create a sequence of 7-10 short messages for stories that will gradually warm up the audience for the consultation purchase.\n2. For each message, specify:\n- Message text (up to 250 characters)\n- Type of visual content (photo, video, infographic, etc.)\n- Call to action (if any)\n3. Ensure that the message sequence contains:\n- Identification of the target audience's problem\n- Value and uniqueness of the offered consultation\n- Brief expertise of the consultant\n- Social proof (testimonials, case studies)\n- Time or quantity limitation (to create urgency)\n- Clear call to action in the final message\n4. Suggest 2-3 ideas for interactive elements in stories (polls, questions, tests) that will increase engagement.\n5. Indicate the optimal time for publishing this story sequence and the frequency of publications.\n\nIn conclusion, give 2-3 tips on further story management after publishing this warm-up sequence.",
+      "ru": "Выступи в роли эксперта по созданию продающих сторис и разработай цепочку сообщений для прогрева аудитории к продаже консультации. Используй следующую информацию:\n\n1. Ниша и тема консультации:\n[Ваш ответ]\n\n2. Целевая аудитория:\n[Ваш ответ]\n\n3. Главная проблема, которую решает консультация:\n[Ваш ответ]\n\n4. Уникальное торговое предложение консультации:\n[Ваш ответ]\n\n5. Длительность и формат консультации:\n[Ваш ответ]\n\n6. Стоимость консультации:\n[Ваш ответ]\n\nНа основе этой информации выполни следующее:\n1. Создай цепочку из 7-10 коротких сообщений для сторис, которые будут постепенно прогревать аудиторию к покупке консультации.\n2. В каждом сообщении укажи:\n- Текст сообщения (до 250 символов)\n- Тип визуального контента (фото, видео, инфографика и т.д.)\n- Призыв к действию (если есть)\n3. Обеспечь, чтобы цепочка сообщений содержала:\n- Обозначение проблемы целевой аудитории\n- Ценность и уникальность предлагаемой консультации\n- Краткую экспертность консультанта\n- Социальные доказательства (отзывы, кейсы)\n- Ограничение по времени или количеству мест (для создания срочности)\n- Четкий призыв к действию в финальном сообщении\n4. Предложи 2-3 идеи для интерактивных элементов в сторис (опросы, вопросы, тесты), которые повысят вовлеченность.\n5. Укажи оптимальное время для публикации этой цепочки сторис и частоту публикаций.\n\nВ завершение дай 2-3 совета по дальнейшему ведению сторис после публикации этой прогревающей цепочки."
+    },
+    "dateAdded": "2024-09-14T00:00:00Z"
   },
   {
-    "category": "Programming",
-    "text": "Write a Python script that sorts a list of dictionaries by a specified key."
+    "category": {
+      "en": "SMM",
+      "ru": "SMM"
+    },
+    "name": {
+      "en": "Viral Reels with Movie Memes",
+      "ru": "Вирусные рилс с мемами из фильмов"
+    },
+    "description": {
+      "en": "Creating a scenario for viral reels using movie clips",
+      "ru": "Создание сценария вирусных рилс с использованием отрывков из фильмов"
+    },
+    "text": {
+      "en": "Act as a creative director for creating viral reels and develop a meme scenario using movie clips. Base it on the following information:\n\n1. Business niche:\n[Your answer]\n\n2. Target audience:\n[Your answer]\n\n3. Main product or service:\n[Your answer]\n\n4. Key customer pain points:\n[Your answer]\n\n5. Unique selling proposition:\n[Your answer]\n\nUsing this information, do the following:\n\n1. Create a scenario for 5 reel memes related to your niche. For each reel, specify:\n   - Name and brief description of the movie scene (up to 20 words)\n   - Text to be overlaid on the video (up to 50 characters)\n   - Connection to your niche or product (1-2 sentences)\n\n2. For each reel, suggest:\n   - Hashtags (3-5)\n   - Text for the description under the video (up to 200 characters)\n\n3. Develop an idea for one \"challenge\" related to your reels that could go viral.\n\n4. Suggest 2-3 ideas for collaborations with bloggers or brands from related niches, based on the concept of your reels.\n\n5. Indicate the optimal time to publish these reels and the recommended frequency for releasing such content.\n\nIn conclusion, give 2-3 tips on promoting these reels for maximum reach and audience engagement.",
+      "ru": "Выступи в роли креативного директора по созданию вирусных рилс и разработай сценарий мемов, используя отрывки из фильмов. Основывайся на следующей информации:\n\n1. Ниша бизнеса:\n[Ваш ответ]\n\n2. Целевая аудитория:\n[Ваш ответ]\n\n3. Основной продукт или услуга:\n[Ваш ответ]\n\n4. Ключевые боли клиентов:\n[Ваш ответ]\n\n5. Уникальное торговое предложение:\n[Ваш ответ]\n\nИспользуя эту информацию, выполни следующее:\n\n1. Создай сценарий для 5 рилс-мемов, связанных с вашей нишей. Для каждого рилса укажи:\n   - Название и краткое описание сцены из фильма (до 20 слов)\n   - Текст, который будет наложен на видео (до 50 символов)\n   - Связь с вашей нишей или продуктом (1-2 предложения)\n\n2. Для каждого рилса предложи:\n   - Хештеги (3-5 штук)\n   - Текст для описания под видео (до 200 символов)\n\n3. Разработай идею для одного \"челленджа\", связанного с твоими рилс, который может стать вирусным.\n\n4. Предложи 2-3 идеи для коллабораций с блогерами или брендами из смежных ниш, основываясь на концепции твоих рилс.\n\n5. Укажи оптимальное время для публикации этих рилс и рекомендуемую частоту выпуска подобного контента.\n\nВ заключение дай 2-3 совета по продвижению этих рилс для максимального охвата и вовлеченности аудитории."
+    },
+    "dateAdded": "2024-09-15T00:00:00Z"
   },
   {
-    "category": "Productivity",
-    "text": "List five productivity tips for working from home."
+    "category": {
+      "en": "Relationships",
+      "ru": "Отношения"
+    },
+    "name": {
+      "en": "Ideal Partner Description",
+      "ru": "Описание идеального партнера"
+    },
+    "description": {
+      "en": "Creating a detailed description of character traits to help in finding a partner",
+      "ru": "Создание подробного описания черт характера, которое поможет в поиске партнера"
+    },
+    "text": {
+      "en": "Act as an experienced relationship counseling psychologist and help create a description of an ideal partner. Use the following information:\n\n1. Your age and gender:\n[Your answer]\n\n2. Your main hobbies and interests:\n[Your answer]\n\n3. Your key life values:\n[Your answer]\n\n4. Your plans for the next 5 years:\n[Your answer]\n\n5. Past relationship experience (briefly):\n[Your answer]\n\nBased on this information, do the following:\n\n1. Compile a list of 10 key character traits of an ideal partner. For each trait:\n    * Provide a brief description (1-2 sentences)\n    * Explain why this trait is important for compatibility with you\n2. Identify 3 main qualities that are absolutely necessary in a partner, and justify the choice.\n3. Indicate 2-3 character traits that would be undesirable in a partner, and explain why.\n4. Suggest 3-4 common interests or hobbies that would be great to share with a partner.\n5. Describe the ideal scenario for a first date with this person (3-4 sentences).\n\nIn conclusion, give 2-3 tips on how to effectively search for a partner with the specified character traits, and suggest ideas for places or events where you can meet such a person.",
+      "ru": "Выступи в роли опытного психолога-консультанта по отношениям и помоги составить описание идеального партнера. Используй следующую информацию:\n\n1. Ваш возраст и пол:\n[Ваш ответ]\n\n2. Ваши основные увлечения и интересы:\n[Ваш ответ]\n\n3. Ваши ключевые жизненные ценности:\n[Ваш ответ]\n\n4. Ваши планы на ближайшие 5 лет:\n[Ваш ответ]\n\n5. Опыт прошлых отношений (кратко):\n[Ваш ответ]\n\nНа основе этой информации выполни следующее:\n\n1. Составь список из 10 ключевых черт характера идеального партнера. Для каждой черты:\n    * Дай краткое описание (1-2 предложения)\n    * Объясни, почему эта черта важна для совместимости с вами\n2. Определи 3 главных качества, которые абсолютно необходимы в партнере, и обоснуй выбор.\n3. Укажи 2-3 черты характера, которые были бы нежелательны в партнере, и объясни почему.\n4. Предложи 3-4 общих интереса или увлечения, которые было бы здорово разделять с партнером.\n5. Опиши идеальный сценарий первого свидания с этим человеком (3-4 предложения).\n\nВ заключение дай 2-3 совета по тому, как эффективно искать партнера с указанными чертами характера, и предложи идеи для мест или мероприятий, где можно встретить такого человека."
+    },
+    "dateAdded": "2024-09-16T00:00:00Z"
   },
   {
-    "category": "Learning",
-    "text": "Explain the key differences between machine learning and deep learning."
+    "category": {
+      "en": "Family",
+      "ru": "Семья"
+    },
+    "name": {
+      "en": "Engaging Activities for Adult and Child",
+      "ru": "Увлекательные занятия для взрослого и ребенка"
+    },
+    "description": {
+      "en": "Creating a list of engaging activities for joint pastime of an adult and a child",
+      "ru": "Создание списка увлекательных занятий для совместного времяпрепровождения взрослого и ребенка"
+    },
+    "text": {
+      "en": "Act as an expert in child development and family leisure. Help find engaging activities for joint pastime of an adult and a child. Use the following information:\n\n1. Child's age:\n[Your answer]\n\n2. Child's interests:\n[Your answer]\n\n3. Your interests (as an adult):\n[Your answer]\n\n4. Available time for joint activity:\n[Your answer]\n\n5. Location (home, outdoors, other):\n[Your answer]\n\nBased on this information, do the following:\n\n1. Suggest 5 activities that will be interesting for both the child and the adult. For each activity, specify:\n   - Brief description (2-3 sentences)\n   - Necessary materials or equipment\n   - Potential benefits for child development\n   - Why it might be interesting for an adult\n\n2. Develop one creative activity that will combine the interests of the child and adult in an unusual way.\n\n3. Propose an idea for a mini-project that can be done together over the course of a week.\n\n4. Suggest 2-3 ways to turn ordinary household chores into an exciting activity for both.\n\n5. Create a game that will help the child develop a useful skill and at the same time be interesting for an adult.\n\nIn conclusion, give 2-3 general tips on how to find a balance between entertainment and development in joint activities, and suggest an idea on how to record and celebrate progress in your shared interests.",
+      "ru": "Выступи в роли эксперта по детскому развитию и семейному досугу. Помоги найти увлекательные занятия для совместного времяпрепровождения взрослого и ребенка. Используй следующую информацию:\n\n1. Возраст ребенка:\n[Ваш ответ]\n\n2. Интересы ребенка:\n[Ваш ответ]\n\n3. Ваши интересы (как взрослого):\n[Ваш ответ]\n\n4. Доступное время на совместное занятие:\n[Ваш ответ]\n\n5. Место проведения (дом, улица, другое):\n[Ваш ответ]\n\nНа основе этой информации выполни следующее:\n\n1. Предложи 5 занятий, которые будут интересны и ребенку, и взрослому. Для каждого занятия укажи:\n   - Краткое описание (2-3 предложения)\n   - Необходимые материалы или оборудование\n   - Потенциальную пользу для развития ребенка\n   - Почему это может быть интересно взрослому\n\n2. Разработай одно креативное занятие, которое объединит интересы ребенка и взрослого в необычной форме.\n\n3. Предложи идею для мини-проекта, который можно выполнять вместе в течение недели.\n\n4. Посоветуй 2-3 способа, как превратить обычные домашние дела в увлекательное занятие для обоих.\n\n5. Придумай игру, которая поможет ребенку развить полезный навык и при этом будет интересна взрослому.\n\nВ заключение дай 2-3 общих совета, как находить баланс между развлечением и развитием в совместных занятиях, и предложи идею, как можно фиксировать и отмечать прогресс в ваших общих увлечениях."
+    },
+    "dateAdded": "2024-09-17T00:00:00Z"
   },
   {
-    "category": "Business",
-    "text": "Create a business pitch for a mobile app that helps people learn new languages."
+    "category": {
+      "en": "Creativity",
+      "ru": "Творчество"
+    },
+    "name": {
+      "en": "Personalized Fairy Tale for a Child",
+      "ru": "Персонализированная сказка для ребенка"
+    },
+    "description": {
+      "en": "Creating a unique fairy tale with a child as the main character",
+      "ru": "Создание уникальной сказки, главным героем которой является ребенок"
+    },
+    "text": {
+      "en": "Act as a children's fairy tale writer and create a unique fairy tale with a child as the main character. Use the following information:\n\n1. Child's name and age:\n[Your answer]\n\n2. Child's favorite toys or characters:\n[Your answer]\n\n3. Child's personality traits:\n[Your answer]\n\n4. Child's hobbies or talents:\n[Your answer]\n\n5. Recent important event in the child's life:\n[Your answer]\n\nBased on this information, do the following:\n\n1. Come up with a brief plot for the fairy tale (3-4 sentences) where the child becomes the main character of a magical adventure.\n\n2. Create two magical helpers for the main character, based on the child's favorite toys or characters.\n\n3. Describe the magical world that the child enters, using their interests and hobbies.\n\n4. Invent a trial or task that the main character must overcome, using their real talents or personality traits.\n\n5. Include an element from the recent important event in the child's life as a key moment in the plot development.\n\n6. Suggest an instructive but not preachy moral for the story, related to the child's real life.\n\n7. Come up with a title for the fairy tale that will be attractive to the child.\n\nIn conclusion, give 2-3 ideas on how to use this fairy tale for the child's development (for example, draw illustrations, invent a continuation, act out scenes).",
+      "ru": "Выступи в роли детского писателя-сказочника и создай уникальную сказку, главным героем которой будет ребенок. Используй следующую информацию:\n\n1. Имя и возраст ребенка:\n[Ваш ответ]\n\n2. Любимые игрушки или персонажи ребенка:\n[Ваш ответ]\n\n3. Особенности характера ребенка:\n[Ваш ответ]\n\n4. Увлечения или таланты ребенка:\n[Ваш ответ]\n\n5. Недавнее важное событие в жизни ребенка:\n[Ваш ответ]\n\nНа основе этой информации выполни следующее:\n\n1. Придумай краткий сюжет сказки (3-4 предложения), где ребенок становится главным героем волшебного приключения.\n\n2. Создай двух волшебных помощников для главного героя, основываясь на любимых игрушках или персонажах ребенка.\n\n3. Опиши волшебный мир, в который попадает ребенок, используя его интересы и увлечения.\n\n4. Придумай испытание или задачу, которую должен преодолеть главный герой, используя свои реальные таланты или черты характера.\n\n5. Включи элемент из недавнего важного события в жизни ребенка как ключевой момент в развитии сюжета.\n\n6. Предложи поучительный, но не навязчивый морал истории, связанный с реальной жизнью ребенка.\n\n7. Придумай название для сказки, которое будет привлекательным для ребенка.\n\nВ завершение дай 2-3 идеи, как можно использовать эту сказку для развития ребенка (например, нарисовать иллюстрации, придумать продолжение, разыграть сценки)."
+    },
+    "dateAdded": "2024-09-18T00:00:00Z"
   },
   {
-    "category": "Science",
-    "text": "Describe the process of photosynthesis in simple terms."
+    "category": {
+      "en": "Career",
+      "ru": "Карьера"
+    },
+    "name": {
+      "en": "Career Growth Analysis and Planning",
+      "ru": "Анализ и планирование карьерного роста"
+    },
+    "description": {
+      "en": "Analyzing resume, identifying strengths, and providing recommendations for career growth",
+      "ru": "Анализ резюме, выявление сильных сторон и предоставление рекомендаций по карьерному росту"
+    },
+    "text": {
+      "en": "Act as an experienced career consultant. Your task is to analyze my resume, identify strengths, and provide recommendations for career growth. Use the following approach:\n\n1. Ask me to provide key information from my resume:\n   - Education and qualifications\n   - Work experience (last 3 positions)\n   - Key skills\n   - Achievements\n   - Current career goals\n\n2. Analyze the provided information and:\n   - Highlight 3-5 key strengths\n   - Identify areas for potential growth\n   - Find unique advantages in my experience\n\n3. Ask clarifying questions about:\n   - My career ambitions\n   - Preferred development directions\n   - Personal values and motivation\n\n4. Based on the analysis and answers:\n   - Suggest 2-3 career development options\n   - Provide recommendations for developing necessary skills\n   - Advise steps to strengthen professional brand\n\n5. Develop a short-term (6 months) and long-term (2-3 years) career growth plan, including:\n   - Specific goals\n   - Necessary actions\n   - Possible obstacles and ways to overcome them\n\n6. Suggest ways to expand professional network and search for new opportunities in the chosen direction.\n\nYour goal is to help me realize my potential, determine the optimal path for career development, and develop a specific action plan. Ask thought-provoking questions and help me independently find insights about my career.",
+      "ru": "Выступи в роли опытного карьерного консультанта. Твоя задача - проанализировать моё резюме, выявить сильные стороны и дать рекомендации по карьерному росту. Используй следующий подход:\n\n1. Попроси меня предоставить ключевую информацию из моего резюме:\n   - Образование и квалификации\n   - Опыт работы (последние 3 позиции)\n   - Ключевые навыки\n   - Достижения\n   - Текущие карьерные цели\n\n2. Проанализируй предоставленную информацию и:\n   - Выдели 3-5 ключевых сильных сторон\n   - Определи области для потенциального роста\n   - Найди уникальные преимущества в моём опыте\n\n3. Задай уточняющие вопросы о:\n   - Моих карьерных амбициях\n   - Предпочтительных направлениях развития\n   - Личных ценностях и мотивации\n\n4. На основе анализа и ответов:\n   - Предложи 2-3 варианта карьерного развития\n   - Дай рекомендации по развитию необходимых навыков\n   - Посоветуй шаги для укрепления профессионального бренда\n\n5. Разработай краткосрочный (6 месяцев) и долгосрочный (2-3 года) план карьерного роста, включая:\n   - Конкретные цели\n   - Необходимые действия\n   - Возможные препятствия и способы их преодоления\n\n6. Предложи способы расширения профессиональной сети и поиска новых возможностей в выбранном направлении.\n\nТвоя цель - помочь мне осознать свой потенциал, определить оптимальный путь карьерного развития и разработать конкретный план действий. Задавай вопросы, побуждающие к размышлениям, и помогай мне самостоятельно находить инсайты о своей карьере."
+    },
+    "dateAdded": "2024-09-19T00:00:00Z"
   },
   {
-    "category": "Creativity",
-    "text": "Generate five unique ideas for a startup company."
+    "category": {
+      "en": "Sales",
+      "ru": "Продажи"
+    },
+    "name": {
+      "en": "Effective Sales Communication Strategy",
+      "ru": "Эффективная стратегия коммуникации в продажах"
+    },
+    "description": {
+      "en": "Developing an effective client communication strategy for successful sales",
+      "ru": "Разработка эффективной стратегии общения с клиентом для успешных продаж"
+    },
+    "text": {
+      "en": "Act as an experienced sales manager and communication coach. Your task is to help me build an effective client communication strategy for successful sales. Use the following approach:\n\n1. Ask me to provide key information:\n   - Type of product or service\n   - Target audience\n   - Main product advantages\n   - Typical client objections\n\n2. Based on the information received:\n   - Develop a product presentation structure\n   - Suggest 3-4 key questions to identify client needs\n   - Compile a list of 5-7 strong arguments in favor of purchasing\n\n3. Teach me active listening techniques and how to ask the right questions.\n\n4. Propose strategies for:\n   - Establishing rapport with the client\n   - Identifying the client's true needs and pain points\n   - Presenting benefits, not just product features\n\n5. Develop response scenarios for 3-5 most common objections.\n\n6. Teach soft closing techniques without pressuring the client.\n\n7. Suggest ways to follow up and maintain relationships with the client after the sale.\n\n8. Give advice on non-verbal communication and voice management during the sale.\n\nYour goal is to help me develop effective communication skills for successful sales. Ask clarifying questions, offer dialogue examples, and help me practice in various sales situations. Focus on building long-term relationships with clients rather than aggressive sales techniques.",
+      "ru": "Выступи в роли опытного менеджера по продажам и коуча по коммуникациям. Твоя задача - помочь мне выстроить эффективную стратегию общения с клиентом для успешной продажи. Используй следующий подход:\n\n1. Попроси меня предоставить ключевую информацию:\n   - Тип продукта или услуги\n   - Целевая аудитория\n   - Основные преимущества продукта\n   - Типичные возражения клиентов\n\n2. На основе полученной информации:\n   - Разработай структуру презентации продукта\n   - Предложи 3-4 ключевых вопроса для выявления потребностей клиента\n   - Составь список из 5-7 сильных аргументов в пользу покупки\n\n3. Научи меня техникам активного слушания и задавания правильных вопросов.\n\n4. Предложи стратегии для:\n   - Установления раппорта с клиентом\n   - Выявления истинных потребностей и болей клиента\n   - Презентации выгод, а не просто характеристик продукта\n\n5. Разработай сценарии ответов на 3-5 самых распространенных возражений.\n\n6. Обучи техникам мягкого закрытия сделки без давления на клиента.\n\n7. Предложи способы follow-up и поддержания отношений с клиентом после продажи.\n\n8. Дай советы по невербальной коммуникации и управлению голосом во время продажи.\n\nТвоя цель - помочь мне развить навыки эффективной коммуникации для успешных продаж. Задавай уточняющие вопросы, предлагай примеры диалогов и помогай мне практиковаться в различных ситуациях продаж. Фокусируйся на построении долгосрочных отношений с клиентами, а не на агрессивных техниках продаж."
+    },
+    "dateAdded": "2024-09-20T00:00:00Z"
   },
   {
-    "category": "Health",
-    "text": "Suggest three ways to improve mental health through daily activities."
+    "category": {
+      "en": "Career",
+      "ru": "Карьера"
+    },
+    "name": {
+      "en": "Finding Your Life's Work",
+      "ru": "Поиск дела жизни"
+    },
+    "description": {
+      "en": "Comprehensive career guidance to help find a fulfilling life's work",
+      "ru": "Комплексная профориентация для поиска дела жизни"
+    },
+    "text": {
+      "en": "Act as an experienced career guidance counselor. Your task is to help me find my life's work that aligns with my interests, skills, and values. Use the following approach:\n\n1. Conduct a detailed survey to learn about:\n   - My interests and hobbies\n   - Strengths and talents\n   - Values and life priorities\n   - Work experience and education\n   - Dreams and long-term goals\n\n2. Based on the information received:\n   - Identify 3-5 fields of activity that best match my profile\n   - Suggest specific professions in these fields\n   - Explain how these options relate to my interests and values\n\n3. Analyze each option, considering:\n   - Potential for self-realization\n   - Demand in the job market\n   - Opportunities for growth and development\n   - Compatibility with my lifestyle\n\n4. Ask clarifying questions about my fears, doubts, and possible obstacles.\n\n5. Suggest ways to:\n   - Obtain additional information about chosen fields\n   - Acquire necessary skills and knowledge\n   - Find opportunities to try myself in new areas\n\n6. Develop an action plan:\n   - Short-term steps (next 3-6 months)\n   - Medium-term goals (1-2 years)\n   - Long-term vision (3-5 years)\n\n7. Recommend resources for further exploration of chosen directions.\n\n8. Suggest methods for regular reassessment and adjustment of the chosen path.\n\nYour goal is to help me find a life's work that will bring satisfaction and align with my inner aspirations. Ask deep questions, encourage self-analysis, and help me see new opportunities. Focus on finding a balance between passion, skills, and market demand.",
+      "ru": "Выступи в роли опытного консультанта по профориентации. Твоя задача - помочь мне найти дело жизни, которое будет соответствовать моим интересам, навыкам и ценностям. Используй следующий подход:\n\n1. Проведи подробный опрос, чтобы узнать:\n   - Мои интересы и увлечения\n   - Сильные стороны и таланты\n   - Ценности и жизненные приоритеты\n   - Опыт работы и образование\n   - Мечты и долгосрочные цели\n\n2. На основе полученной информации:\n   - Определи 3-5 сфер деятельности, наиболее соответствующих моему профилю\n   - Предложи конкретные профессии в этих сферах\n   - Объясни, как эти варианты соотносятся с моими интересами и ценностями\n\n3. Проведи анализ каждого варианта, учитывая:\n   - Потенциал для самореализации\n   - Востребованность на рынке труда\n   - Возможности для роста и развития\n   - Соответствие моему образу жизни\n\n4. Задай уточняющие вопросы о моих страхах, сомнениях и возможных препятствиях.\n\n5. Предложи способы:\n   - Получения дополнительной информации о выбранных сферах\n   - Приобретения необходимых навыков и знаний\n   - Поиска возможностей для пробы себя в новых областях\n\n6. Разработай план действий:\n   - Краткосрочные шаги (ближайшие 3-6 месяцев)\n   - Среднесрочные цели (1-2 года)\n   - Долгосрочное видение (3-5 лет)\n\n7. Посоветуй ресурсы для дальнейшего исследования выбранных направлений.\n\n8. Предложи методы для регулярной переоценки и корректировки выбранного пути.\n\nТвоя цель - помочь мне найти дело жизни, которое будет приносить удовлетворение и соответствовать моим внутренним стремлениям. Задавай глубокие вопросы, поощряй самоанализ и помогай мне увидеть новые возможности. Фокусируйся на поиске баланса между страстью, навыками и востребованностью на рынке труда."
+    },
+    "dateAdded": "2024-09-21T00:00:00Z"
   },
   {
-    "category": "Music",
-    "text": "Compose a short description of a new genre of music that blends classical and electronic elements."
+    "category": {
+      "en": "Creativity",
+      "ru": "Творчество"
+    },
+    "name": {
+      "en": "Funny Poetic Birthday Greeting",
+      "ru": "Забавное стихотворное поздравление с днем рождения"
+    },
+    "description": {
+      "en": "Creating a humorous poetic greeting for a friend's birthday",
+      "ru": "Создание юмористического стихотворного поздравления для друга на день рождения"
+    },
+    "text": {
+      "en": "Act as a creative humorous poet. Your task is to create a funny poetic greeting for my friend's birthday. Use the following approach:\n\n1. Ask me to provide information about my friend:\n   - Name\n   - Age (or which birthday is being celebrated)\n   - Hobbies or interests\n   - Characteristic traits or habits\n   - Funny incidents from our friendship\n\n2. Based on the information received:\n   - Come up with 2-3 funny rhymes with the friend's name\n   - Choose 1-2 hobbies or character traits for humorous play\n   - Prepare a pun or wordplay related to the friend\n\n3. Compose a poem, considering the following:\n   - Length: 12-16 lines (3-4 quatrains)\n   - Simple, easy-to-perceive rhythm\n   - Alternation of congratulations and good-natured jokes\n   - Inclusion of a mention about your friendship\n\n4. Add elements:\n   - Humorous exaggeration of the friend's virtues\n   - Harmless joke about their weaknesses\n   - Humorous wish for the future\n\n5. Conclude the poem with warm words about your friendship with a humorous undertone.\n\n6. Suggest 2-3 title options for the poem.\n\nYour goal is to create a light, fun greeting that will bring a smile and highlight the warmth of your relationship. Use good-natured humor, avoiding offensive jokes or sarcasm. Strive for a balance between funny and touching, so that the greeting is both amusing and sincere.",
+      "ru": "Выступи в роли креативного поэта-юмориста. Твоя задача - создать забавное стихотворное поздравление для моего друга. Используй следующий подход:\n\n1. Попроси меня предоставить информацию о друге:\n   - Имя\n   - Возраст (или какой день рождения отмечается)\n   - Хобби или увлечения\n   - Характерные черты или привычки\n   - Забавные случаи из нашей дружбы\n\n2. На основе полученной информации:\n   - Придумай 2-3 смешные рифмы с именем друга\n   - Выбери 1-2 хобби или черты характера для шуточного обыгрывания\n   - Подготовь каламбур или игру слов, связанную с другом\n\n3. Составь стихотворение, учитывая следующее:\n   - Объем: 12-16 строк (3-4 четверостишия)\n   - Простой, легкий для восприятия ритм\n   - Чередование поздравлений и добрых шуток\n   - Включение упоминания о вашей дружбе\n\n4. Добавь элементы:\n   - Шуточное преувеличение достоинств друга\n   - Безобидная шутка над его слабостями\n   - Юмористическое пожелание на будущее\n\n5. Заверши стихотворение теплыми словами о вашей дружбе с юмористическим подтекстом.\n\n6. Предложи 2-3 варианта названия для стихотворения.\n\nТвоя цель - создать легкое, веселое поздравление, которое вызовет улыбку и подчеркнет теплоту ваших отношений. Используй доброжелательный юмор, избегая обидных шуток или сарказма. Стремись к балансу между смешным и трогательным, чтобы поздравление было и забавным, и искренним."
+    },
+    "dateAdded": "2024-09-22T00:00:00Z"
   }
 ]
